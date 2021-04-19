@@ -1,0 +1,68 @@
+ 
+ *{ 
+
+    margin:0px; 
+    padding:0px; 
+  
+ } 
+
+ body{ 
+     background-color: #f6f5f5; 
+     box-sizing: border-box;
+ }
+ .portfolia-menu {
+    text-align: center;
+   
+    background: blue;
+    opacity: 0.7;
+    padding: 10px 0px;
+} 
+
+
+button {
+    border: none;
+    margin-right: 13px;
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+} 
+
+
+button.btn.btn-primary.mt-4 {position: relative;left: 33px;background: red;
+    border: none;}
+    
+   
+
+    footer {
+        background: #000000d1;
+        color: #ffffff;
+    }
+    
+    ul.pagination {
+        margin-top: 10px;
+    }
+
+    .tstart{ 
+     opacity: 1; 
+     transform: scale(1);
+
+    } 
+    button.active {
+        background: #ff1212;
+        border-radius: 10px;
+    } 
+   
+
+    button.mb-2 {
+        background: black;
+        color: white;
+        padding: 10px 0px;
+        border-radius: 7px;
+    } 
+    section {
+        background: #ffffff;
+    }
+    
+    div#carouselExampleIndicators {
+        margin-top: 71px;
+    }
